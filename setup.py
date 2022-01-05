@@ -2,7 +2,6 @@ from setuptools import setup, find_packages
 
 
 setup (
-    name             = "hello.py",
     version          = "1.0",
     description      = "Example application to be deployed.",
     packages         = find_packages(),
